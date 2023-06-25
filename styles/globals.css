@@ -1,0 +1,44 @@
+.header-component{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  border: 1px solid gray;
+}
+.nav-items>ul{
+list-style-type: none; 
+display: flex;  
+}
+.nav-items>ul{
+list-style-type: none;
+display: flex;
+margin: 10px;
+}
+.logo > img{
+  width: 80px;
+
+}
+.body{
+  display:flex;
+  justify-content: space-between;
+  margin: 10px;
+  border: 1 px solid black;
+}
+.body-components>ul{
+  list-style-type: none; 
+display: flex;
+margin: 10px;
+}
+.sidebar{
+  border: 1px solid green;
+  display:contents;
+  margin:10px;
+}
+.sidebar>ul{
+  display: inline;
+  justify-content: space-between;
+  margin: 10px;
+
+}
+.company{
+  display:contents;
+}
